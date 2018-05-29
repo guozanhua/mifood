@@ -1,0 +1,476 @@
+[ 2017-03-25T10:54:12+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000365s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013755s ]
+
+[ 2017-03-25T10:55:22+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002172s ]
+
+[ 2017-03-25T10:56:34+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001889s ]
+
+[ 2017-03-25T10:57:37+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002014s ]
+
+[ 2017-03-25T10:58:01+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001915s ]
+
+[ 2017-03-25T10:58:03+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002039s ]
+
+[ 2017-03-25T11:15:16+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002120s ]
+
+[ 2017-03-25T11:15:55+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001891s ]
+
+[ 2017-03-25T11:16:21+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002591s ]
+
+[ 2017-03-25T11:17:11+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000351s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003307s ]
+
+[ 2017-03-25T11:19:24+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001915s ]
+
+[ 2017-03-25T11:19:26+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001938s ]
+
+[ 2017-03-25T11:19:27+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002399s ]
+
+[ 2017-03-25T11:19:28+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002048s ]
+
+[ 2017-03-25T11:19:29+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001917s ]
+
+[ 2017-03-25T11:19:29+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002059s ]
+
+[ 2017-03-25T11:19:30+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001959s ]
+
+[ 2017-03-25T11:19:30+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002044s ]
+
+[ 2017-03-25T11:19:30+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002095s ]
+
+[ 2017-03-25T11:19:31+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002387s ]
+
+[ 2017-03-25T11:19:31+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002083s ]
+
+[ 2017-03-25T11:19:31+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002242s ]
+
+[ 2017-03-25T11:19:31+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001964s ]
+
+[ 2017-03-25T11:19:56+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002161s ]
+
+[ 2017-03-25T11:20:31+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001962s ]
+ERR: Think\Model:vaildProxyIp方法不存在！
+
+[ 2017-03-25T11:21:02+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002806s ]
+
+[ 2017-03-25T11:21:41+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002018s ]
+
+[ 2017-03-25T11:23:41+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002722s ]
+
+[ 2017-03-25T11:23:50+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002032s ]
+
+[ 2017-03-25T11:26:06+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002540s ]
+
+[ 2017-03-25T11:26:16+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000157s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002405s ]
+
+[ 2017-03-25T11:26:18+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002102s ]
+
+[ 2017-03-25T11:26:22+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002032s ]
+
+[ 2017-03-25T11:26:25+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002242s ]
+
+[ 2017-03-25T11:26:28+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002020s ]
+
+[ 2017-03-25T11:26:33+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001986s ]
+
+[ 2017-03-25T11:26:34+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001884s ]
+
+[ 2017-03-25T11:27:00+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002005s ]
+
+[ 2017-03-25T11:27:39+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002209s ]
+
+[ 2017-03-25T11:27:40+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002037s ]
+
+[ 2017-03-25T11:27:42+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002075s ]
+
+[ 2017-03-25T11:28:01+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001997s ]
+
+[ 2017-03-25T11:29:23+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002142s ]
+
+[ 2017-03-25T11:29:26+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001954s ]
+
+[ 2017-03-25T11:29:27+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002110s ]
+
+[ 2017-03-25T11:29:51+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002138s ]
+
+[ 2017-03-25T11:29:52+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002323s ]
+
+[ 2017-03-25T11:29:54+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002037s ]
+
+[ 2017-03-25T11:29:54+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001942s ]
+
+[ 2017-03-25T11:30:02+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002123s ]
+
+[ 2017-03-25T11:30:15+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000132s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002204s ]
+
+[ 2017-03-25T11:30:35+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002579s ]
+
+[ 2017-03-25T11:30:36+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001906s ]
+
+[ 2017-03-25T11:30:47+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002497s ]
+
+[ 2017-03-25T11:31:13+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002003s ]
+
+[ 2017-03-25T11:31:15+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001964s ]
+
+[ 2017-03-25T11:31:16+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001996s ]
+
+[ 2017-03-25T11:31:17+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002172s ]
+
+[ 2017-03-25T11:31:18+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002028s ]
+
+[ 2017-03-25T11:31:20+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001874s ]
+
+[ 2017-03-25T11:31:21+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001888s ]
+
+[ 2017-03-25T11:31:22+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001898s ]
+
+[ 2017-03-25T11:31:24+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001975s ]
+
+[ 2017-03-25T11:35:48+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002136s ]
+
+[ 2017-03-25T11:36:16+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002287s ]
+
+[ 2017-03-25T11:38:46+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002192s ]
+
+[ 2017-03-25T11:40:38+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002071s ]
+
+[ 2017-03-25T11:42:35+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002340s ]
+
+[ 2017-03-25T11:43:04+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002168s ]
+
+[ 2017-03-25T11:43:07+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002013s ]
+
+[ 2017-03-25T11:43:42+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002240s ]
+
+[ 2017-03-25T11:43:45+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002049s ]
+
+[ 2017-03-25T11:45:03+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002238s ]
+
+[ 2017-03-25T11:45:40+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002050s ]
+
+[ 2017-03-25T11:46:23+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002858s ]
+
+[ 2017-03-25T11:47:50+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002391s ]
+
+[ 2017-03-25T11:48:16+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002033s ]
+
+[ 2017-03-25T11:48:37+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002102s ]
+
+[ 2017-03-25T11:49:19+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002041s ]
+
+[ 2017-03-25T11:50:39+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002031s ]
+
+[ 2017-03-25T11:51:22+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002331s ]
+
+[ 2017-03-25T11:51:43+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000150s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002580s ]
+
+[ 2017-03-25T11:51:45+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001970s ]
+
+[ 2017-03-25T11:55:28+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002997s ]
+
+[ 2017-03-25T11:57:01+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002958s ]
+
+[ 2017-03-25T11:57:13+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002080s ]
+
+[ 2017-03-25T11:58:24+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000156s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004302s ]
+
+[ 2017-03-25T15:43:10+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013574s ]
+
+[ 2017-03-25T15:43:22+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000154s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003184s ]
+
+[ 2017-03-25T15:59:01+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002860s ]
+
+[ 2017-03-25T16:00:00+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000159s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002550s ]
+
+[ 2017-03-25T16:02:34+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000144s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002290s ]
+
+[ 2017-03-25T16:06:17+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003255s ]
+
+[ 2017-03-25T16:20:57+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004872s ]
+
+[ 2017-03-25T16:25:07+08:00 ] ::1 /3.2.1/index.php/Home/Index/ip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002693s ]
+

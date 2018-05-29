@@ -1,0 +1,293 @@
+[ 2017-03-17T00:45:31+08:00 ] ::1 /3.2.1/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001610s ]
+
+[ 2017-03-17T00:45:44+08:00 ] ::1 /3.2.1/index.php/Home/Index/loings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002145s ]
+
+[ 2017-03-17T00:58:07+08:00 ] ::1 /3.2.1/Home/User/lhome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001477s ]
+ERR: 非法操作:lhome
+
+[ 2017-03-17T00:58:15+08:00 ] ::1 /3.2.1/Home/User/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001792s ]
+
+[ 2017-03-17T00:58:18+08:00 ] ::1 /3.2.1/Home/User/localhost/3.2.1/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001499s ]
+ERR: 非法操作:localhost
+
+[ 2017-03-17T00:59:10+08:00 ] ::1 /3.2.1/Home/User/localhost/3.2.1/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000188s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002757s ]
+ERR: 非法操作:localhost
+
+[ 2017-03-17T00:59:20+08:00 ] ::1 /3.2.1/Home/User/localhost/3.2.1/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004185s ]
+ERR: 非法操作:localhost
+
+[ 2017-03-17T00:59:26+08:00 ] ::1 /3.2.1/Home/User/localhost/3.2.1/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000184s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002661s ]
+ERR: 非法操作:localhost
+
+[ 2017-03-17T01:19:15+08:00 ] ::1 /3.2.1/Home/User/localhost/3.2.1/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001595s ]
+ERR: 非法操作:localhost
+
+[ 2017-03-17T08:37:24+08:00 ] ::1 /3.2.1/Home/User/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001586s ]
+
+[ 2017-03-17T08:37:27+08:00 ] ::1 /3.2.1/Home/User/Application/Home/View/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000182s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002436s ]
+ERR: 非法操作:Application
+
+[ 2017-03-17T08:40:46+08:00 ] ::1 /3.2.1/Home/User/Application/Home/View/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001627s ]
+ERR: 非法操作:Application
+
+[ 2017-03-17T08:40:50+08:00 ] ::1 /3.2.1/Home/User/Application/Home/View/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001565s ]
+ERR: 非法操作:Application
+
+[ 2017-03-17T08:45:38+08:00 ] ::1 /3.2.1/Home/User/Application/Home/View/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001594s ]
+ERR: 非法操作:Application
+
+[ 2017-03-17T08:48:37+08:00 ] ::1 /3.2.1/Home/User/Application/Home/View/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001743s ]
+ERR: 非法操作:Application
+
+[ 2017-03-17T08:49:18+08:00 ] ::1 /3.2.1/Home/User/Application/Home/View/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001783s ]
+ERR: 非法操作:Application
+
+[ 2017-03-17T08:49:21+08:00 ] ::1 /3.2.1/Home/User/Application/Home/View/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001921s ]
+ERR: 非法操作:Application
+
+[ 2017-03-17T16:43:38+08:00 ] ::1 /3.2.1/Home/User/Application/Home/View/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003141s ]
+ERR: 非法操作:Application
+
+[ 2017-03-17T16:43:55+08:00 ] ::1 /3.2.1/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001839s ]
+
+[ 2017-03-17T16:44:16+08:00 ] ::1 /3.2.1/Home/User/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002064s ]
+
+[ 2017-03-17T16:44:20+08:00 ] ::1 /3.2.1/Home/User/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000543s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004677s ]
+
+[ 2017-03-17T16:44:38+08:00 ] ::1 /3.2.1/Home/User/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001453s ]
+
+[ 2017-03-17T17:55:51+08:00 ] ::1 /3.2.1/Home/User/redirect(/3.2.1/index.php/Home/User/login)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001724s ]
+
+[ 2017-03-17T17:56:05+08:00 ] ::1 /3.2.1/Home/User/redirect(/3.2.1/index.php/Home/User/login)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001332s ]
+
+[ 2017-03-17T17:56:06+08:00 ] ::1 /3.2.1/Home/User/redirect(/3.2.1/index.php/Home/User/login)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001430s ]
+
+[ 2017-03-17T17:56:09+08:00 ] ::1 /3.2.1/Home/User/redirect(/3.2.1/index.php/Home/User/login)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001530s ]
+
+[ 2017-03-17T17:57:16+08:00 ] ::1 /3.2.1/Home/User/redirect(/3.2.1/index.php/Home/User/login)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001430s ]
+
+[ 2017-03-17T17:58:07+08:00 ] ::1 /3.2.1/Home/User/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001333s ]
+
+[ 2017-03-17T17:58:17+08:00 ] ::1 /3.2.1/Home/User/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004243s ]
+
+[ 2017-03-17T17:58:48+08:00 ] ::1 /3.2.1/Home/User/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001476s ]
+
+[ 2017-03-17T17:58:56+08:00 ] ::1 /3.2.1/Home/User/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001597s ]
+
+[ 2017-03-17T17:58:57+08:00 ] ::1 /3.2.1/Home/User/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001488s ]
+
+[ 2017-03-17T17:58:58+08:00 ] ::1 /3.2.1/Home/User/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002106s ]
+
+[ 2017-03-17T17:58:59+08:00 ] ::1 /3.2.1/Home/User/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001318s ]
+
+[ 2017-03-17T17:59:00+08:00 ] ::1 /3.2.1/Home/User/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001422s ]
+
+[ 2017-03-17T18:00:21+08:00 ] ::1 /3.2.1/Home/User/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001440s ]
+
+[ 2017-03-17T18:00:23+08:00 ] ::1 /3.2.1/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001495s ]
+
+[ 2017-03-17T19:11:49+08:00 ] ::1 /3.2.1/index.php/Home/Index/loings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013044s ]
+
+[ 2017-03-17T19:12:57+08:00 ] ::1 /3.2.1/index.php/Home/User/show_love
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003659s ]
+
+[ 2017-03-17T19:12:57+08:00 ] ::1 /3.2.1/index.php/Home/User/public/js/jQuery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001968s ]
+ERR: 非法操作:public
+
+[ 2017-03-17T19:20:25+08:00 ] ::1 /3.2.1/index.php/Home/User/__Application__/Home/User/del/shop_id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001532s ]
+ERR: 非法操作:__Application__
+
+[ 2017-03-17T19:20:38+08:00 ] ::1 /3.2.1/index.php/Home/User/public/js/jQuery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002176s ]
+ERR: 非法操作:public
+
+[ 2017-03-17T19:22:08+08:00 ] ::1 /3.2.1/index.php/Home/User/show_love
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001993s ]
+
+[ 2017-03-17T19:22:08+08:00 ] ::1 /3.2.1/index.php/Home/User/public/js/jQuery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001629s ]
+ERR: 非法操作:public
+
+[ 2017-03-17T19:24:01+08:00 ] ::1 /3.2.1/index.php/Home/User/show_love
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001393s ]
+
+[ 2017-03-17T19:24:01+08:00 ] ::1 /3.2.1/index.php/Home/User/public/js/jQuery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001657s ]
+ERR: 非法操作:public
+
+[ 2017-03-17T19:24:10+08:00 ] ::1 /3.2.1/index.php/Home/User/del?shop_id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001486s ]
+
+[ 2017-03-17T19:24:10+08:00 ] ::1 /3.2.1/index.php/Home/User/public/js/jQuery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001769s ]
+ERR: 非法操作:public
+
+[ 2017-03-17T19:24:11+08:00 ] ::1 /3.2.1/index.php/Home/User/del?shop_id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003071s ]
+
+[ 2017-03-17T19:24:11+08:00 ] ::1 /3.2.1/index.php/Home/User/public/js/jQuery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001854s ]
+ERR: 非法操作:public
+
+[ 2017-03-17T19:28:17+08:00 ] ::1 /3.2.1/index.php/Home/User/del?shop_id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001460s ]
+
+[ 2017-03-17T19:28:17+08:00 ] ::1 /3.2.1/index.php/Home/User/public/js/jQuery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001766s ]
+ERR: 非法操作:public
+
+[ 2017-03-17T19:28:21+08:00 ] ::1 /3.2.1/index.php/Home/User/del?shop_id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001519s ]
+
+[ 2017-03-17T19:28:21+08:00 ] ::1 /3.2.1/index.php/Home/User/public/js/jQuery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001367s ]
+ERR: 非法操作:public
+

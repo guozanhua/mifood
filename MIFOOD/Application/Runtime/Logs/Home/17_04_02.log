@@ -1,0 +1,1148 @@
+[ 2017-04-02T21:01:37+08:00 ] ::1 /MIFOOD/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001553s ]
+
+[ 2017-04-02T21:03:53+08:00 ] ::1 /MIFOOD/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001362s ]
+
+[ 2017-04-02T21:37:20+08:00 ] ::1 /MIFOOD/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002049s ]
+
+[ 2017-04-02T21:38:19+08:00 ] ::1 /MIFOOD/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001696s ]
+
+[ 2017-04-02T22:01:59+08:00 ] ::1 /MIFOOD/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001684s ]
+
+[ 2017-04-02T22:12:07+08:00 ] ::1 /MIFOOD/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002054s ]
+
+[ 2017-04-02T22:12:54+08:00 ] ::1 /MIFOOD/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002147s ]
+
+[ 2017-04-02T22:12:55+08:00 ] ::1 /MIFOOD/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001357s ]
+
+[ 2017-04-02T22:16:09+08:00 ] ::1 /MIFOOD/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001535s ]
+
+[ 2017-04-02T22:25:04+08:00 ] ::1 /MIFOOD/Home/Indrx/classify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001682s ]
+ERR: 无法加载控制器:Indrx
+
+[ 2017-04-02T22:25:11+08:00 ] ::1 /MIFOOD/Home/Index/classify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002057s ]
+
+[ 2017-04-02T22:25:31+08:00 ] ::1 /MIFOOD/Home/Index/classify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002033s ]
+
+[ 2017-04-02T22:25:32+08:00 ] ::1 /MIFOOD/Home/Index/classify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001340s ]
+
+[ 2017-04-02T22:26:19+08:00 ] ::1 /MIFOOD/Home/Index/classify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001350s ]
+
+[ 2017-04-02T22:27:00+08:00 ] ::1 /MIFOOD/Home/Index/classify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000477s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002910s ]
+
+[ 2017-04-02T22:30:32+08:00 ] ::1 /MIFOOD/Home/Index/classify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001561s ]
+
+[ 2017-04-02T22:33:36+08:00 ] ::1 /MIFOOD/Home/Index/classify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001823s ]
+
+[ 2017-04-02T22:33:39+08:00 ] ::1 /MIFOOD/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001443s ]
+
+[ 2017-04-02T22:34:08+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002141s ]
+
+[ 2017-04-02T22:34:08+08:00 ] ::1 /MIFOOD/index.php/Home/Index/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001503s ]
+ERR: 非法操作:css
+
+[ 2017-04-02T22:34:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/css/font-awesome.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001584s ]
+ERR: 非法操作:css
+
+[ 2017-04-02T22:34:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/css/owl.carousel.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002255s ]
+ERR: 非法操作:css
+
+[ 2017-04-02T22:34:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/css/top.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001439s ]
+ERR: 非法操作:css
+
+[ 2017-04-02T22:34:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/move-top.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001488s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:34:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/easing.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001651s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:34:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000222s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002331s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:34:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001339s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:34:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/move-top.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001736s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:34:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001289s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:34:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/easing.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001666s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:34:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/top.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000152s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004600s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:34:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/distpicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001516s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:34:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/plugins.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001641s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:34:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/distpicker.data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000149s ]
+INFO: [ app_init ] --END-- [ RunTime:0.065887s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:34:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001228s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:34:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000128s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001908s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:34:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/plugins.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001251s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:34:10+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/top.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001605s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:34:10+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/move-top.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001515s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:34:10+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/distpicker.data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001271s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:34:10+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/distpicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001870s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:34:10+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000175s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001784s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:37:08+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001964s ]
+
+[ 2017-04-02T22:37:08+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001469s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:37:08+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000220s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004438s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:37:08+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000154s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002611s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:38:19+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001943s ]
+
+[ 2017-04-02T22:38:19+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000154s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002181s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:38:19+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001600s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:38:19+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002157s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:38:19+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001677s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:39:34+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001379s ]
+
+[ 2017-04-02T22:39:34+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001465s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:39:34+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001797s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:39:34+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001941s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:39:34+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001789s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:42:15+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001784s ]
+
+[ 2017-04-02T22:42:15+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001319s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:42:16+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001475s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:42:16+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000196s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003228s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:42:16+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001721s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:42:20+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001524s ]
+
+[ 2017-04-02T22:42:20+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001506s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:42:20+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001610s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:42:51+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002339s ]
+
+[ 2017-04-02T22:42:51+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001409s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:42:51+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001481s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:42:51+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001716s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:42:51+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001297s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:32+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001386s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:32+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001369s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:32+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000132s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002488s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:32+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001613s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:34+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001391s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:34+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001364s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:34+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000149s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002026s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:34+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001289s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:37+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001830s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:37+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000154s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009887s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:37+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002665s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:37+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001308s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:38+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001361s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:38+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001419s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:38+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001573s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:38+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000132s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001545s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:38+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001394s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:38+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003223s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:41+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000159s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002337s ]
+
+[ 2017-04-02T22:43:41+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000156s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001575s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:41+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002256s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:41+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000188s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001833s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:43:41+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001544s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:44:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001367s ]
+
+[ 2017-04-02T22:44:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001632s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:44:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001914s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:44:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002077s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:44:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001339s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:45:47+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002134s ]
+
+[ 2017-04-02T22:45:47+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001432s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T22:45:47+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001800s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:00:55+08:00 ] ::1 /MIFOOD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000150s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002904s ]
+
+[ 2017-04-02T23:01:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000167s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001740s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:01:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001403s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:01:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002347s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:01:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001294s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:01:30+08:00 ] ::1 /MIFOOD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001722s ]
+
+[ 2017-04-02T23:01:52+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001336s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:01:52+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001442s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:01:52+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002112s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:01:52+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001239s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:01:54+08:00 ] ::1 /MIFOOD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001888s ]
+
+[ 2017-04-02T23:01:56+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001783s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:01:56+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001856s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:01:56+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000206s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003287s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:01:57+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001495s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:01:58+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001533s ]
+
+[ 2017-04-02T23:01:58+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001457s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:01:58+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001356s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:01:58+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001786s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:01:58+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001260s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:02:01+08:00 ] ::1 /MIFOOD/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001368s ]
+
+[ 2017-04-02T23:03:06+08:00 ] ::1 /MIFOOD/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001252s ]
+
+[ 2017-04-02T23:03:39+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001557s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:03:39+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001847s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:03:39+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001749s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:03:39+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001720s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:03:40+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001628s ]
+
+[ 2017-04-02T23:03:40+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001428s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:03:40+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001516s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:03:42+08:00 ] ::1 /MIFOOD/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002117s ]
+
+[ 2017-04-02T23:05:51+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001815s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:05:51+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001384s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:05:51+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001651s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:05:51+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001361s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:05:53+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002442s ]
+
+[ 2017-04-02T23:05:53+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001532s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:05:53+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000161s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001983s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:05:55+08:00 ] ::1 /MIFOOD/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001876s ]
+
+[ 2017-04-02T23:06:12+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002278s ]
+
+[ 2017-04-02T23:06:12+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001564s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:06:12+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001412s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:06:13+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001552s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:06:13+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/minicart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001223s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:08:30+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002099s ]
+
+[ 2017-04-02T23:08:31+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000128s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001598s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:08:31+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002881s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:10:58+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000179s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002374s ]
+
+[ 2017-04-02T23:10:58+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002460s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:13:32+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000157s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002956s ]
+
+[ 2017-04-02T23:15:10+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001719s ]
+
+[ 2017-04-02T23:24:37+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001829s ]
+
+[ 2017-04-02T23:25:01+08:00 ] ::1 /MIFOOD/index.php/Home/Index/products.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001637s ]
+ERR: 非法操作:products
+
+[ 2017-04-02T23:26:12+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001387s ]
+
+[ 2017-04-02T23:26:51+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001783s ]
+
+[ 2017-04-02T23:30:42+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001675s ]
+
+[ 2017-04-02T23:33:04+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001546s ]
+
+[ 2017-04-02T23:46:19+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002048s ]
+
+[ 2017-04-02T23:48:17+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001915s ]
+
+[ 2017-04-02T23:48:54+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001918s ]
+
+[ 2017-04-02T23:49:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001788s ]
+
+[ 2017-04-02T23:53:13+08:00 ] ::1 /MIFOOD/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001485s ]
+
+[ 2017-04-02T23:54:25+08:00 ] ::1 /MIFOOD/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002170s ]
+
+[ 2017-04-02T23:54:53+08:00 ] ::1 /MIFOOD/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002040s ]
+
+[ 2017-04-02T23:55:22+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000154s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002620s ]
+
+[ 2017-04-02T23:55:24+08:00 ] ::1 /MIFOOD/index.php/Home/Index/classify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001816s ]
+
+[ 2017-04-02T23:55:26+08:00 ] ::1 /MIFOOD/index.php/Home/Index/health
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002212s ]
+
+[ 2017-04-02T23:55:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019839s ]
+ERR: 非法操作:css
+
+[ 2017-04-02T23:55:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/css/popuo-box.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001643s ]
+ERR: 非法操作:css
+
+[ 2017-04-02T23:55:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002313s ]
+ERR: 非法操作:css
+
+[ 2017-04-02T23:55:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/css/leftlunbo.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001608s ]
+ERR: 非法操作:css
+
+[ 2017-04-02T23:55:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/css/health.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001543s ]
+ERR: 非法操作:css
+
+[ 2017-04-02T23:55:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/numscroller-1.0.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001289s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/jquery-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000152s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001763s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000167s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003294s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/move-top.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.028339s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/responsiveslides.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001629s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/easing.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000289s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004294s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/jquery.wmuSlider.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001411s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/wow.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001659s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001446s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/owl.carousel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001621s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/distpicker.data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001640s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/distpicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001811s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001479s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:32+08:00 ] ::1 /MIFOOD/index.php/Home/Index/css/jquery-ui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001364s ]
+ERR: 非法操作:css
+
+[ 2017-04-02T23:55:32+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/numscroller-1.0.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001647s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:32+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/move-top.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001848s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:32+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/easing.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001283s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:32+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/jquery-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001305s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:32+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/responsiveslides.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001979s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:32+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/wow.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001350s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:32+08:00 ] ::1 /MIFOOD/index.php/Home/Index/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001247s ]
+ERR: 非法操作:css
+
+[ 2017-04-02T23:55:32+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/jquery.wmuSlider.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001965s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:32+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001339s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:33+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/owl.carousel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001264s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:33+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/distpicker.data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001238s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:33+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/distpicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001470s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:55:33+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001667s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:59:11+08:00 ] ::1 /MIFOOD/index.php/Home/Index/health
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001738s ]
+
+[ 2017-04-02T23:59:11+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/owl.carousel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001607s ]
+ERR: 非法操作:js
+
+[ 2017-04-02T23:59:11+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/owl.carousel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002047s ]
+ERR: 非法操作:js
+

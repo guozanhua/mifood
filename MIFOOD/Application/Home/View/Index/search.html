@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+    <!-- 语言为中文 -->
+    <head>
+        <meta charset="utf-8">
+            <meta content="IE=edge" http-equiv="X-UA-Compatible">
+                <meta content="width=device-width, initial-scale=1.0" name="viewport">
+                    <title>
+                        MIFOOD-search
+                    </title>
+<!-- for-mobile-apps -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<load href="__PUBLIC__/js/jquery.min.js" />
+<load href="__PUBLIC__/js/ajax.js" />
+<!-- //for-mobile-apps -->
+<load href='__PUBLIC__/css/ajax.css' />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="__PUBLIC__/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link href="__PUBLIC__/css/search.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="__PUBLIC__/css/jquery-ui.css" />
+<link href="__PUBLIC__/css/popuo-box.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="__PUBLIC__/css/bootstrap-responsive.css" rel="stylesheet">
+<link href="__PUBLIC__/css/page.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/test.css" />
+  </head>
+  <body>
+       <!-- header -->
+<div class="header wow zoomIn">
+	<div class="container">
+		<div class="header_left" data-wow-duration="2s" data-wow-delay="0.5s">
+			<ul>
+				<li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>+123 456 7890</li>
+				<li><a href=""><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>mifood@example.com</a></li>
+			</ul>
+		</div>
+		<div class="header_right">
+			<div class="login">
+				<ul>
+					<if condition="$_SESSION['user'] eq '' ">
+                     <li><a href="#" data-toggle="modal" data-target="#myModal4"><span class="glyphicon glyphicon-user" aria-hidden="true"></span>登录</a></li>
+                    <li><a href="#" data-toggle="modal" data-target="#myModal5"><span class="glyphicon glyphicon-user" aria-hidden="true"></span>注册</a></li>
+                     <else />
+                    <li><a href="__URL__/user" ><span class="glyphicon glyphicon-user" aria-hidden="true"></span>{$_SESSION['user']}</a></li>
+                    <li><a href="__URL__/log_out"><span class=" glyphicon" aria-hidden="true"></span>退出</a></li></if>
+				</ul>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</div>
+ <!-- //header -->
+<div class="header-bottom ">
+		<div class="container">
+			<nav class="navbar navbar-default">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+				  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				  </button>
+					<div class="logo grid">
+						<div class="grid__item color-3">
+							<h1><a class="link link--nukun" href="index.html"><i></i>MI<span>F</span>OOD</a></h1>
+						</div>
+					</div>
+				</div>
+
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
+					<nav class="menu menu--horatio">
+						<ul class="nav navbar-nav menu__list">
+							<li class="menu__item menu__item--current"><a href="__URL__/index" class="menu__link">首页</a></li>
+							<li class="menu__item"><a href="__URL__/top" class="menu__link">Top系列</a></li> 
+							<li class="menu__item"><a href="__URL__/classify/category_id/7" class="menu__link">分类</a></li> 
+							<li class="menu__item"><a href="__URL__/health" class="menu__link">写食派</a></li> 
+				<!-- 			<li class="menu__item"><a href="contact.html" class="menu__link">联系我们</a></li> -->
+						</ul>
+					</nav>
+				</div>
+			</nav>
+		</div>
+	</div>
+<!-- login -->
+			<!-- //contact -->
+<!-- login -->
+
+            <div class="modal fade" id="myModal4" tabindex="-1" role="dialog" >
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content modal-info">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>                        
+                        </div>
+                        <div class="modal-body modal-spa">
+                            <div class="login-grids">
+                                    
+                                    <div class="login-right">
+                                        <h3>登录</h3> 
+                                        <form action="{:U('Index/logins')}" method="post">
+                                            <div class="sign-in">
+                                                <h4>用户名:</h4>
+                                                <input  class="username" type="text" name="username"   required="" value="">    
+                                            </div>
+                                            <div class="sign-in">
+                                                <h4>密码 :</h4>
+                                                <input type="password" name="password"  required="" value="" class="password">
+                                            </div>
+                                            <div class="single-bottom">
+                                                <input type="checkbox"  id="brand" value="">
+                                                <label for="brand"><span></span>记住密码</label>
+                                            </div>
+                                            <div class="sign-in">
+                                                <input id="submit1" type="submit" value="登 录" >
+                                            </div>
+                                        </form>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+<!-- //login -->
+<!-- login -->
+            <div class="modal fade" id="myModal5" tabindex="-1" role="dialog" >
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content modal-info">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>                        
+                        </div>
+                        <div class="modal-body modal-spa">
+                            <div class="login-grids">
+                                    <div class="login-bottom">
+                                        <h3>注册</h3>
+                                        <form action="{:U('Login/register')}" method="post">
+                                            <div class="sign-in">
+                                                <h4>用户名 :</h4>
+                                                <input type="text" name="username" value="" class="username" required="" placeholder="您的用户名">
+                    <div id="tooltip1" class="tooltip-info prompt">
+                    <span class="tooltip-icon-border"></span> 
+                    <span class="tooltip-icon-bg"></span> 
+                    <span class="state"></span> 
+                    <span id="mess1" class="mess"></span>
+                </div>  
+                                            </div>
+                                            <div class="sign-up">
+                                                <h4>Email:</h4>
+                                                <input type="text" name="email" value="" class="email" onFocus="this.value = '';"  required="" placeholder="请写入合法的邮箱地址">
+                        <div id="tooltip3" class="tooltip-info prompt">
+                        <span class="tooltip-icon-border"></span> 
+                        <span class="tooltip-icon-bg"></span> 
+                        <span class="state"></span> 
+                        <span id="mess3" class="mess"></span>
+                    </div>  
+                                            </div>
+                                            <div class="sign-up">
+                                                <h4>密码 :</h4>
+                                                <input type="password" name="password" value="" class="password"      onFocus="this.value = '';"  required="" placeholder="6~15个字符">
+                        <div id="tooltip2" class="tooltip-info prompt">
+                        <span class="tooltip-icon-border"></span> 
+                        <span class="tooltip-icon-bg"></span> 
+                        <span class="state"></span>
+                        <span id="mess2" class="mess"></span>
+                    </div>
+                                                
+                                            </div>
+                                            <div class="sign-up">
+                                                <h4>确认密码 :</h4>
+                                                <input type="password" name="confirm_password" value="" class="confirm_password" onFocus="this.value = '';"  required="" placeholder="6~15个字符">
+                        <div id="tooltip22" class="tooltip-info prompt">
+                        <span class="tooltip-icon-border"></span> 
+                        <span class="tooltip-icon-bg"></span> 
+                        <span class="state"></span> 
+                        <span id="mess22" class="mess"></span>
+                    </div>
+                                                
+                                            </div>
+                                            <div class="sign-up">
+                                                <input id="submit" type="submit" value="免费注册" >
+                                            </div>
+                                            
+                                        </form>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+<!-- //login -->
+<!-- //login -->
+      <div class="page_container">
+    	<div class="breadcrumb">
+        	<div class="wrap">
+                <div class="container">
+                    <a href="index.html">全部</a><span>/</span>美食记录
+                </div>
+            </div> 
+        </div>
+    	<!--MAIN CONTENT AREA-->
+        <div class="wrap">
+            <div class="container inner_content">
+                <div id='ajaxpage'>
+<div class='page1' style='display:none;'><a href="{:U('search',array('p'=>1))}" title="">自动点击执行AJAX请求显示第一页内容</a></div> 
+</div>
+<div id="myTabContent" class="tab-content">
+    <div class="tab-pane fade in active" id="home">
+    <div class="agile_top_brands_grids">
+      <div class="container">
+ <volist id='list' name='shop'  key="k"> 
+ <div class="col-md-3 top_brand_left">
+                    <div class="hover14 column">
+                        <div class="agile_top_brand_left_grid">
+                             <div class="tag"><img src="__PUBLIC__/images/tag.png" alt=" " class="img-responsive" /></div>
+                            <div class="agile_top_brand_left_grid1">
+                                <figure>
+                                    <div class="snipcart-item block">
+                                        <div class="snipcart-thumb">
+                                            <a href="__URL__/details/shop_id/{$list['shop_id']}"><img title=" " alt=" " src="{$list['shop_img']}" width="180" height="140"/></a>        
+                                            <p>{$list['shop_name']}</p>
+                                            <h4>【{$list['area']}{$list['zone']}】</h4>
+                                        </div>
+                                        <div class="snipcart-details top_brand_home_details">
+                                                <fieldset>
+
+                                                    <a href="__URL__/details/shop_id/{$list['shop_id']}"><input type="submit" name="submit" value="去看看" class="button" /></a>
+                                                </fieldset>
+    
+                                        </div>
+                                    </div>
+                                </figure>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+               <if condition="($k eq 4)or($k eq 8)or($k eq 12) "></div>
+                        <div class="agile_top_brands_grids" >
+                        <div class="container">
+               </if>
+
+</volist> 
+                <div class="clearfix"> </div>
+                
+            </div>
+        </div>
+        </div>
+        {$page}
+            </div>
+        </div>
+    <!--//MAIN CONTENT AREA--></div></div>
+    </div>
+    <!--//page_container-->
+    <div class="footer">
+    <div class="container">
+    <div class="row">
+      <div class="agile-footer-grids">
+        <div class="col-md-4 agile-footer-grid">
+          <h4> 关于我们</h4>
+          <p>  经验交流</p>
+          <h5> 外卖分析<h5>
+        </div>
+        <div class="col-md-4 agile-footer-grid">
+          <h4>友情链接</h4>
+          <ul class="float">
+                        <li>
+                            <a href="http://www.ttmeishi.com/">
+                                天天美食
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.ttmeishi.com/">
+                                口碑外卖
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.ttmeishi.com/">
+                                易淘食
+                            </a>
+                        </li>
+                    </ul>
+                    <ul class="float">
+                        <li>
+                            <a href="http://www.ttmeishi.com/">
+                                大众点评
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.ttmeishi.com/">
+                                饿了吗
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.ttmeishi.com/">
+                                美团外卖
+                            </a>
+                        </li>
+                    </ul>
+        </div>
+        <div class="col-md-4 agile-footer-grid">
+          <h4>热门主题</h4>
+          <div class="popular-grids">
+            <div class="popular-grid">
+              <a href="top.html"><img src="__PUBLIC__/images/s1.jpg" alt="" /></a>
+            </div>
+            <div class="popular-grid">
+              <a href="top.htmll"><img src="__PUBLIC__/images/s2.jpg" alt="" /></a>
+            </div>
+            <div class="popular-grid">
+              <a href="top.html"><img src="__PUBLIC__/images/s3.jpg" alt="" /></a>
+            </div>
+            <div class="clearfix"> </div>
+          </div>
+          <div class="popular-grids">
+            <div class="popular-grid">
+              <a href="top.html"><img src="__PUBLIC__/images/s5.jpg" alt="" /></a>
+            </div>
+            <div class="popular-grid">
+              <a href="top.html"><img src="__PUBLIC__/images/s6.jpg" alt="" /></a>
+            </div>
+            <div class="popular-grid">
+              <a href="top.htmll"><img src="__PUBLIC__/images/s7.jpg" alt="" /></a>
+            </div>
+            <div class="clearfix"> </div>
+          </div>
+        </div>
+        <div class="clearfix"> </div>
+      </div>
+    </div>
+  </div>
+  </div>
+  <!-- //footer -->
+  <!-- agileits-copyright -->
+
+  <div class="agileits-copyright">
+    <div class="container">
+      <div class="row">
+      </div>
+      <p>© 2017 Food Corner. All rights reserved | Design by MIFOOD</p>
+    </div>
+  
+  </div>
+  </body>
+ <script type="text/javascript" src="__PUBLIC__/js/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/js/numscroller-1.0.js"></script>
+<script type="text/javascript" src="__PUBLIC__/js/easing.js"></script>
+	<script src="__PUBLIC__/js/responsiveslides.min.js"></script>
+	<script type="text/javascript" src="__PUBLIC__/js/bootstrap-3.1.1.min.js"></script>
+    <script src="__PUBLIC__/js/jquery.isotope.min.js" type="text/javascript"></script>
+	<script type="text/javascript" src="__PUBLIC__/js/sorting.js"></script>
+  </html>
+  <script type="text/javascript">
+//这是分页中各个分页的AJAX请求
+$(function(){
+$('#ajaxpage').on('click','.page a',function () { 
+$.ajax({
+type: "GET",
+url:$(this).attr('href'), //取得分页a标签链接地址，正好是要提交的控制器和传参：Index/ajaxPage/p/1
+success:function(data){
+$('#ajaxpage').html(data); //将分页控制器输出的模版加载到容器中
+}
+});
+return false; //使a标签失效，防止页面跳转
+});
+});
+$(function () {
+$('.page a').trigger('click');
+});
+</script>

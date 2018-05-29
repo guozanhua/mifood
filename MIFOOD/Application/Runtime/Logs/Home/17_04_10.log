@@ -1,0 +1,193 @@
+[ 2017-04-10T14:33:35+08:00 ] ::1 /MIFOOD/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008463s ]
+
+[ 2017-04-10T20:22:45+08:00 ] ::1 /MIFOOD/index.php/Home/Index/person
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002326s ]
+
+[ 2017-04-10T20:23:05+08:00 ] ::1 /MIFOOD/index.php/Home/Index/mail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000187s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003622s ]
+
+[ 2017-04-10T20:37:21+08:00 ] ::1 /MIFOOD/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002082s ]
+
+[ 2017-04-10T20:37:46+08:00 ] ::1 /MIFOOD/index.php/Home/Index/search.html?search=%E9%9D%A2%E5%8C%85
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001921s ]
+
+[ 2017-04-10T20:39:21+08:00 ] ::1 /MIFOOD/index.php/Home/Index/search.html?search=%E9%9D%A2%E5%8C%85
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002286s ]
+
+[ 2017-04-10T20:40:48+08:00 ] ::1 /MIFOOD/index.php/Home/Index/about.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001886s ]
+ERR: 非法操作:about
+
+[ 2017-04-10T20:42:14+08:00 ] ::1 /MIFOOD/index.php/Home/Index/about.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002405s ]
+ERR: 非法操作:about
+
+[ 2017-04-10T20:42:19+08:00 ] ::1 /MIFOOD/index.php/Home/Index/search.html?search=%E9%9D%A2%E5%8C%85
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000189s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003348s ]
+
+[ 2017-04-10T20:42:24+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000183s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003113s ]
+
+[ 2017-04-10T20:46:02+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002323s ]
+
+[ 2017-04-10T20:46:33+08:00 ] ::1 /MIFOOD/index.php/Home/Index/classify/category_id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002433s ]
+
+[ 2017-04-10T20:46:34+08:00 ] ::1 /MIFOOD/index.php/Home/Index/classsify/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000172s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002927s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005106s ]
+ERR: 非法操作:classsify
+
+[ 2017-04-10T20:46:49+08:00 ] ::1 /MIFOOD/index.php/Home/Index/details/shop_id/1120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001773s ]
+
+[ 2017-04-10T20:47:43+08:00 ] ::1 /MIFOOD/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000184s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003237s ]
+
+[ 2017-04-10T20:47:48+08:00 ] ::1 /MIFOOD/index.php/Home/Index/index.php/Home/Login/checkName
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000205s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005876s ]
+ERR: 非法操作:index.php
+
+[ 2017-04-10T20:47:53+08:00 ] ::1 /MIFOOD/index.php/Home/Index/index.php/Home/Login/checkName
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001991s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002732s ]
+ERR: 非法操作:index.php
+
+[ 2017-04-10T20:47:56+08:00 ] ::1 /MIFOOD/index.php/Home/Index/index.php/Home/Login/checkName
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003662s ]
+ERR: 非法操作:index.php
+
+[ 2017-04-10T20:50:14+08:00 ] ::1 /MIFOOD/index.php/Home/Index/details/shop_id/41
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000144s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002621s ]
+
+[ 2017-04-10T20:52:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/details/shop_id/41
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001916s ]
+
+[ 2017-04-10T20:52:32+08:00 ] ::1 /MIFOOD/index.php/Home/Index/addLove/shop_id/41
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000153s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002839s ]
+
+[ 2017-04-10T20:52:33+08:00 ] ::1 /MIFOOD/index.php/Home/Index/details/shop_id/41
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000180s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003335s ]
+
+[ 2017-04-10T20:52:39+08:00 ] ::1 /MIFOOD/index.php/Home/Index/addLove/shop_id/41
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002839s ]
+
+[ 2017-04-10T20:52:40+08:00 ] ::1 /MIFOOD/index.php/Home/Index/details/shop_id/41
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003670s ]
+
+[ 2017-04-10T21:00:16+08:00 ] ::1 /MIFOOD/index.php/Home/Index/person
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001863s ]
+
+[ 2017-04-10T22:12:09+08:00 ] ::1 /MIFOOD/index.php/Home/Index/details/shop_id/41
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001967s ]
+
+[ 2017-04-10T22:12:12+08:00 ] ::1 /MIFOOD/index.php/Home/Index/addLove/shop_id/41
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000205s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003960s ]
+
+[ 2017-04-10T22:18:25+08:00 ] ::1 /MIFOOD/index.php/Home/Index/details/shop_id/41/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000153s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003983s ]
+
+[ 2017-04-10T22:18:47+08:00 ] ::1 /MIFOOD/index.php/Home/Index/details/shop_id/41/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002214s ]
+
+[ 2017-04-10T22:19:38+08:00 ] ::1 /MIFOOD/index.php/Home/Index/details/shop_id/41
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002366s ]
+
+[ 2017-04-10T22:19:55+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002235s ]
+
+[ 2017-04-10T22:20:06+08:00 ] ::1 /MIFOOD/index.php/Home/Index/details/shop_id/199
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001982s ]
+
+[ 2017-04-10T22:21:04+08:00 ] ::1 /MIFOOD/index.php/Home/Index/details/shop_id/199
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001737s ]
+
+[ 2017-04-10T22:22:18+08:00 ] ::1 /MIFOOD/index.php/Home/Index/details/shop_id/199
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001859s ]
+
+[ 2017-04-10T22:22:47+08:00 ] ::1 /MIFOOD/index.php/Home/Index/details/shop_id/199
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001756s ]
+

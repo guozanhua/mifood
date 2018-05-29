@@ -1,0 +1,50 @@
+.b-page1 {
+  background: #fff;
+  box-shadow: 0px 1px 2px 0px #E2E2E2;
+}
+.page1 {
+  width: 100%;
+  padding: 30px 15px;
+  background: #FFF;
+  text-align: center;
+  overflow: hidden;
+}
+.page1 .first,
+.page1 .prev,
+.page1 .current,
+.page1 .num,
+.page1 .current,
+.page1 .next,
+.page1 .end {
+  padding: 8px 16px;
+  margin: 0px 5px;
+  display: inline-block;
+  color: #555;
+  border: 1px solid #F2F2F2;
+  border-radius: 5px;
+}
+.page1 .first:hover,
+.page1 .prev:hover,
+.page1 .current:hover,
+.page1 .num:hover,
+.page1 .current:hover,
+.page1 .next:hover,
+.page1 .end:hover {
+  text-decoration: none;
+  background: #e64c3c;
+  color: #fff;
+}
+.page1 .current {
+  background-color: #d32323;
+  color: #FFF;
+  border-radius: 5px;
+  border: 1px solid #d32323;
+}
+.page1 .current:hover {
+  text-decoration: none;
+  color: #fff;
+  background: #e64c3c;
+}
+.page1 .not-allowed {
+  cursor: not-allowed;
+}

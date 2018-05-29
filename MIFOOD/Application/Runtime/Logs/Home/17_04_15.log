@@ -1,0 +1,86 @@
+[ 2017-04-15T08:48:43+08:00 ] ::1 /MIFOOD/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000212s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015987s ]
+
+[ 2017-04-15T08:49:47+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000160s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002515s ]
+
+[ 2017-04-15T08:50:55+08:00 ] ::1 /MIFOOD/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003425s ]
+
+[ 2017-04-15T08:51:13+08:00 ] ::1 /MIFOOD/index.php/Home/Index/yop
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001759s ]
+ERR: 非法操作:yop
+
+[ 2017-04-15T08:51:20+08:00 ] ::1 /MIFOOD/index.php/Home/Index/classify/category_id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001981s ]
+
+[ 2017-04-15T08:51:22+08:00 ] ::1 /MIFOOD/index.php/Home/Index/classsify/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004238s ]
+ERR: 非法操作:classsify
+
+[ 2017-04-15T08:51:33+08:00 ] ::1 /MIFOOD/index.php/Home/Index/classify/category_id/11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000187s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002782s ]
+
+[ 2017-04-15T08:51:36+08:00 ] ::1 /MIFOOD/index.php/Home/Index/classsify/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000150s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005763s ]
+ERR: 非法操作:classsify
+
+[ 2017-04-15T08:51:43+08:00 ] ::1 /MIFOOD/index.php/Home/Index/health
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001933s ]
+
+[ 2017-04-15T08:51:43+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/owl.carousel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000401s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004395s ]
+ERR: 非法操作:js
+
+[ 2017-04-15T08:52:33+08:00 ] ::1 /MIFOOD/index.php/Home/Index/js/owl.carousel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000152s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003222s ]
+ERR: 非法操作:js
+
+[ 2017-04-15T08:52:50+08:00 ] ::1 /MIFOOD/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002049s ]
+
+[ 2017-04-15T08:53:36+08:00 ] ::1 /MIFOOD/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000149s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002745s ]
+
+[ 2017-04-15T08:56:11+08:00 ] ::1 /MIFOOD/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000159s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002687s ]
+
+[ 2017-04-15T08:56:29+08:00 ] ::1 /MIFOOD/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000144s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002880s ]
+

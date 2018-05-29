@@ -1,0 +1,95 @@
+[ 2017-04-01T08:06:27+08:00 ] ::1 /MIFOOD/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000708s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020998s ]
+
+[ 2017-04-01T08:06:50+08:00 ] ::1 /MIFOOD/index.php/Home/Index/logins.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001999s ]
+
+[ 2017-04-01T08:06:51+08:00 ] ::1 /MIFOOD/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002115s ]
+
+[ 2017-04-01T08:07:02+08:00 ] ::1 /MIFOOD/index.php/Home/Index/search.html?search=hahah+
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002961s ]
+
+[ 2017-04-01T08:13:14+08:00 ] ::1 /MIFOOD/index.php/Home/Index/search.html?search=%E5%85%AB%E4%BD%B0%E9%87%8C%E6%BD%AE%E6%B1%95%E7%89%9B%E8%82%89%E7%81%AB%E9%94%85
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000133s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002529s ]
+
+[ 2017-04-01T08:13:51+08:00 ] ::1 /MIFOOD/index.php/Home/Index/search.html?search=%E5%85%AB%E4%BD%B0%E9%87%8C%E6%BD%AE%E6%B1%95%E7%89%9B%E8%82%89%E7%81%AB%E9%94%85
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002156s ]
+
+[ 2017-04-01T08:14:27+08:00 ] ::1 /MIFOOD/index.php/Home/Index/search.html?search=%E7%81%AB%E9%94%85
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001814s ]
+
+[ 2017-04-01T08:18:25+08:00 ] ::1 /MIFOOD/index.php/Home/Index/search.html?search=%E7%81%AB%E9%94%85
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002034s ]
+
+[ 2017-04-01T08:19:14+08:00 ] ::1 /MIFOOD/index.php/Home/Index/search.html?search=%E5%BA%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002174s ]
+
+[ 2017-04-01T08:19:36+08:00 ] ::1 /MIFOOD/index.php/Home/Index/search.html?search=%E5%BA%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002077s ]
+
+[ 2017-04-01T08:35:26+08:00 ] ::1 /MIFOOD/index.php/Home/Index/search.html?search=%E5%BA%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002293s ]
+
+[ 2017-04-01T08:36:10+08:00 ] ::1 /MIFOOD/index.php/Home/Index/search/search/%E5%BA%97/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001960s ]
+
+[ 2017-04-01T08:36:15+08:00 ] ::1 /MIFOOD/index.php/Home/Index/search/search/%E5%BA%97/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002817s ]
+
+[ 2017-04-01T08:36:19+08:00 ] ::1 /MIFOOD/index.php/Home/Index/search/search/%E5%BA%97/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002588s ]
+
+[ 2017-04-01T08:38:17+08:00 ] ::1 /MIFOOD/index.php/Home/Index/search/search/%E5%BA%97/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002876s ]
+
+[ 2017-04-01T08:45:22+08:00 ] ::1 /MIFOOD/index.php/Home/Index/search/search/%E5%BA%97/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002013s ]
+
+[ 2017-04-01T08:45:38+08:00 ] ::1 /MIFOOD/index.php/Home/Index/search/search/%E5%BA%97/p/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002463s ]
+
+[ 2017-04-01T08:45:59+08:00 ] ::1 /MIFOOD/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002085s ]
+
+[ 2017-04-01T08:49:44+08:00 ] ::1 /MIFOOD/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000152s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002967s ]
+

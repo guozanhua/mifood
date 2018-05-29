@@ -1,0 +1,1152 @@
+[ 2017-03-19T19:29:14+08:00 ] ::1 /3.2.1/index.php/Home/User/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000191s ]
+INFO: [ app_init ] --END-- [ RunTime:0.051519s ]
+
+[ 2017-03-19T19:55:41+08:00 ] ::1 /3.2.1/index.php/Home/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003069s ]
+
+[ 2017-03-19T19:55:42+08:00 ] ::1 /3.2.1/index.php/Home/Index/css/home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002092s ]
+ERR: 非法操作:css
+
+[ 2017-03-19T19:55:42+08:00 ] ::1 /3.2.1/index.php/Home/Index/css/normalize.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012212s ]
+ERR: 非法操作:css
+
+[ 2017-03-19T19:55:42+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/tjsp.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002292s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T19:55:42+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.kinMaxShow-1.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002716s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T19:55:42+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001767s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T19:55:42+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/menu.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001806s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T19:58:51+08:00 ] ::1 /3.2.1/index.php/Home/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002321s ]
+
+[ 2017-03-19T19:58:58+08:00 ] ::1 /3.2.1/index.php/Home/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002115s ]
+
+[ 2017-03-19T19:59:29+08:00 ] ::1 /3.2.1/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000463s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005502s ]
+
+[ 2017-03-19T20:39:11+08:00 ] ::1 /3.2.1/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001854s ]
+
+[ 2017-03-19T20:41:54+08:00 ] ::1 /3.2.1/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002241s ]
+
+[ 2017-03-19T20:42:35+08:00 ] ::1 /3.2.1/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002346s ]
+
+[ 2017-03-19T20:42:35+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized.3.2.7.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000149s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003399s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T20:42:35+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001651s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T20:48:18+08:00 ] ::1 /3.2.1/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000150s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002687s ]
+
+[ 2017-03-19T20:51:00+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized.3.2.7.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002194s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T20:51:00+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001937s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T20:51:03+08:00 ] ::1 /3.2.1/index.php/Home/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002662s ]
+
+[ 2017-03-19T20:51:03+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.validate.min.js?var1.14.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002451s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T20:51:03+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000156s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002638s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T20:51:03+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000144s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006908s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T20:51:03+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized.3.2.7.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002950s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T20:51:03+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001736s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T20:51:17+08:00 ] ::1 /3.2.1/index.php/Home/Index/registers.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000159s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002788s ]
+
+[ 2017-03-19T20:57:12+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002135s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T20:57:12+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003716s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T20:57:12+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized.3.2.7.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000174s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002309s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T20:57:12+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002840s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T20:57:12+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.validate.min.js?var1.14.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000164s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002389s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T20:57:19+08:00 ] ::1 /3.2.1/index.php/Home/Index/registers.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000180s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002640s ]
+
+[ 2017-03-19T20:57:35+08:00 ] ::1 /3.2.1/index.php/Home/Index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002581s ]
+
+[ 2017-03-19T20:57:35+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001779s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T20:57:35+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000152s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002605s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T20:57:35+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.validate.min.js?var1.14.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000158s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002941s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T20:57:35+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000154s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002732s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T20:57:35+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized.3.2.7.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000154s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002729s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T20:57:52+08:00 ] ::1 /3.2.1/index.php/Home/Index/registers.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002419s ]
+
+[ 2017-03-19T20:58:01+08:00 ] ::1 /3.2.1/index.php/Home/Index/loings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000149s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002805s ]
+ERR: 非法操作:loings
+
+[ 2017-03-19T21:08:01+08:00 ] ::1 /3.2.1/index.php/Home/Index/loings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002023s ]
+ERR: 非法操作:loings
+
+[ 2017-03-19T21:08:27+08:00 ] ::1 /3.2.1/index.php/Home/Index/loings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002200s ]
+ERR: 非法操作:loings
+
+[ 2017-03-19T21:09:11+08:00 ] ::1 /3.2.1/Home/Index/ligin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002042s ]
+ERR: 非法操作:ligin
+
+[ 2017-03-19T21:09:21+08:00 ] ::1 /3.2.1/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001601s ]
+
+[ 2017-03-19T21:09:30+08:00 ] ::1 /3.2.1/index.php/Home/Index/logins.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002028s ]
+
+[ 2017-03-19T21:09:35+08:00 ] ::1 /3.2.1/index.php/Home/Index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000152s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002291s ]
+
+[ 2017-03-19T21:09:35+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001612s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T21:09:35+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001447s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T21:09:35+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized.3.2.7.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001577s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T21:09:35+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001621s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T21:09:35+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.validate.min.js?var1.14.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020428s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T21:09:47+08:00 ] ::1 /3.2.1/index.php/Home/Index/registers.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001869s ]
+
+[ 2017-03-19T21:09:49+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001393s ]
+
+[ 2017-03-19T21:09:49+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/css/demo.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001451s ]
+
+[ 2017-03-19T21:09:49+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/css/normalize.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001499s ]
+
+[ 2017-03-19T21:09:49+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/js/jquery.1.7.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001619s ]
+
+[ 2017-03-19T21:09:49+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/css/styles.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001516s ]
+
+[ 2017-03-19T21:09:49+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/dist/aos.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.058055s ]
+
+[ 2017-03-19T21:09:49+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/dist/aos.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002217s ]
+
+[ 2017-03-19T21:10:32+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001608s ]
+
+[ 2017-03-19T21:10:32+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/css/demo.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001465s ]
+
+[ 2017-03-19T21:10:32+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/css/normalize.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001357s ]
+
+[ 2017-03-19T21:10:32+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/dist/aos.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001625s ]
+
+[ 2017-03-19T21:10:32+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/js/jquery.1.7.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001768s ]
+
+[ 2017-03-19T21:10:32+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/css/styles.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000153s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002857s ]
+
+[ 2017-03-19T21:10:33+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001442s ]
+
+[ 2017-03-19T21:10:33+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/css/demo.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001421s ]
+
+[ 2017-03-19T21:10:33+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/dist/aos.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000157s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001483s ]
+
+[ 2017-03-19T21:10:33+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/css/styles.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001372s ]
+
+[ 2017-03-19T21:10:33+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/css/normalize.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001542s ]
+
+[ 2017-03-19T21:10:33+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/js/jquery.1.7.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001651s ]
+
+[ 2017-03-19T21:10:33+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/dist/aos.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000296s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002285s ]
+
+[ 2017-03-19T21:10:37+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001545s ]
+
+[ 2017-03-19T21:10:37+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/css/normalize.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001566s ]
+
+[ 2017-03-19T21:10:37+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/dist/aos.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002025s ]
+
+[ 2017-03-19T21:10:37+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/css/demo.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001524s ]
+
+[ 2017-03-19T21:10:37+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/css/styles.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001864s ]
+
+[ 2017-03-19T21:10:37+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/js/jquery.1.7.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000144s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001691s ]
+
+[ 2017-03-19T21:10:37+08:00 ] ::1 /3.2.1/index.php/Home/Index/Index/dist/aos.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000208s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001635s ]
+
+[ 2017-03-19T21:10:46+08:00 ] ::1 /3.2.1/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001652s ]
+
+[ 2017-03-19T21:10:52+08:00 ] ::1 /3.2.1/index.php/Home/Index/logins.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000153s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002545s ]
+
+[ 2017-03-19T21:12:56+08:00 ] ::1 /3.2.1/index.php/Home/Index/logins.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002021s ]
+
+[ 2017-03-19T21:15:06+08:00 ] ::1 /3.2.1/index.php/Home/Index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000186s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002351s ]
+
+[ 2017-03-19T21:15:07+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001598s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T21:15:07+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.validate.min.js?var1.14.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002005s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T21:15:07+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized.3.2.7.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001969s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T21:15:07+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001862s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T21:15:07+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002318s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T21:17:27+08:00 ] ::1 /3.2.1/index.php/Home/Index/registers.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000176s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002550s ]
+
+[ 2017-03-19T21:17:30+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002432s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T21:17:30+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001778s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T21:17:30+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001457s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T21:17:30+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.validate.min.js?var1.14.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002036s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T21:17:30+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized.3.2.7.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001654s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T21:19:47+08:00 ] ::1 /3.2.1/index.php/Home/Index/registers.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000176s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003280s ]
+
+[ 2017-03-19T21:19:50+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001475s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T21:19:50+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001505s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T21:19:50+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized.3.2.7.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001723s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T21:19:50+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.validate.min.js?var1.14.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002527s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T21:19:50+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000861s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002261s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:15:06+08:00 ] ::1 /3.2.1/index.php/Home/Index/registers.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002481s ]
+
+[ 2017-03-19T22:15:09+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized.3.2.7.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000196s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001817s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:15:09+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001623s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:15:09+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.validate.min.js?var1.14.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002283s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:15:09+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001792s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:15:10+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001677s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:16:46+08:00 ] ::1 /3.2.1/index.php/Home/Index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001404s ]
+
+[ 2017-03-19T22:16:46+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002282s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:16:46+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001843s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:16:46+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized.3.2.7.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001461s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:16:46+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000218s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001575s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:16:46+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.validate.min.js?var1.14.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001329s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:17:05+08:00 ] ::1 /3.2.1/index.php/Home/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001736s ]
+
+[ 2017-03-19T22:17:09+08:00 ] ::1 /3.2.1/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002287s ]
+
+[ 2017-03-19T22:17:12+08:00 ] ::1 /3.2.1/index.php/Home/Index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002102s ]
+
+[ 2017-03-19T22:17:12+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001661s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:17:12+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized.3.2.7.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001478s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:17:13+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001581s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:17:13+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.validate.min.js?var1.14.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000159s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002601s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:17:13+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000153s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005505s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:17:24+08:00 ] ::1 /3.2.1/index.php/Home/Index/registers.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001999s ]
+
+[ 2017-03-19T22:17:27+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized.3.2.7.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002614s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:17:27+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002062s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:17:27+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001499s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:17:27+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002023s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:17:27+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.validate.min.js?var1.14.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001604s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:18:45+08:00 ] ::1 /3.2.1/index.php/Home/Index/registers.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002143s ]
+
+[ 2017-03-19T22:18:48+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002086s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:18:48+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001506s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:18:48+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001537s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:18:48+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized.3.2.7.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001829s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:18:48+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.validate.min.js?var1.14.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001668s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:19:24+08:00 ] ::1 /3.2.1/index.php/Home/Index/registers.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002486s ]
+
+[ 2017-03-19T22:23:17+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001870s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:23:17+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized.3.2.7.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001831s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:23:17+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001655s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:23:17+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.validate.min.js?var1.14.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001756s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:23:17+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002515s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:23:24+08:00 ] ::1 /3.2.1/index.php/Home/Index/registers.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002277s ]
+
+[ 2017-03-19T22:27:03+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002235s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:27:03+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized.3.2.7.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002326s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:27:03+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000159s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004757s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:27:04+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.validate.min.js?var1.14.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002375s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:27:04+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000243s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003489s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:27:05+08:00 ] ::1 /3.2.1/index.php/Home/Index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001413s ]
+
+[ 2017-03-19T22:27:13+08:00 ] ::1 /3.2.1/index.php/Home/Index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001592s ]
+
+[ 2017-03-19T22:27:46+08:00 ] ::1 /3.2.1/index.php/Home/Index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001863s ]
+
+[ 2017-03-19T22:28:39+08:00 ] ::1 /3.2.1/index.php/Home/Index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001451s ]
+
+[ 2017-03-19T22:28:53+08:00 ] ::1 /3.2.1/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000183s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002590s ]
+
+[ 2017-03-19T22:29:07+08:00 ] ::1 /3.2.1/index.php/Home/Index/logins.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001865s ]
+
+[ 2017-03-19T22:29:08+08:00 ] ::1 /3.2.1/index.php/Home/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001429s ]
+
+[ 2017-03-19T22:30:15+08:00 ] ::1 /3.2.1/index.php/Home/Index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002274s ]
+
+[ 2017-03-19T22:32:39+08:00 ] ::1 /3.2.1/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002664s ]
+
+[ 2017-03-19T22:32:43+08:00 ] ::1 /3.2.1/index.php/Home/Index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002417s ]
+
+[ 2017-03-19T22:32:43+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002039s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:32:43+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized.3.2.7.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000157s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002897s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:32:43+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002125s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:32:43+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/supersized-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002123s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:32:43+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery.validate.min.js?var1.14.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001605s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:32:45+08:00 ] ::1 /3.2.1/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001836s ]
+
+[ 2017-03-19T22:32:55+08:00 ] ::1 /3.2.1/index.php/Home/Index/logins.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000165s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002644s ]
+
+[ 2017-03-19T22:32:56+08:00 ] ::1 /3.2.1/index.php/Home/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001602s ]
+
+[ 2017-03-19T22:46:34+08:00 ] ::1 /3.2.1/index.php/Home/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013658s ]
+
+[ 2017-03-19T22:46:38+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002115s ]
+
+[ 2017-03-19T22:46:39+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007143s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:46:39+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/shanxuan.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000467s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002787s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:46:39+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/details.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000154s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002547s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:47:24+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001975s ]
+
+[ 2017-03-19T22:47:24+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002239s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:47:25+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002368s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:47:25+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/shanxuan.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001844s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:47:25+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/details.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001811s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:48:08+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002240s ]
+
+[ 2017-03-19T22:48:08+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001845s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:48:08+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000152s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002470s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:48:09+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/shanxuan.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001976s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:48:09+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/details.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002527s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:48:17+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001390s ]
+
+[ 2017-03-19T22:48:17+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001769s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:48:18+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000159s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002684s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:48:18+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/shanxuan.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001889s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:48:18+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/details.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001991s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:48:45+08:00 ] ::1 /3.2.1/index.php/Home/Index/details.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000180s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003767s ]
+
+[ 2017-03-19T22:48:45+08:00 ] ::1 /3.2.1/index.php/Home/Index/css/details.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001534s ]
+ERR: 非法操作:css
+
+[ 2017-03-19T22:48:46+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/details.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.039849s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:48:46+08:00 ] ::1 /3.2.1/index.php/Home/Index/js/Chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000193s ]
+INFO: [ app_init ] --END-- [ RunTime:0.047255s ]
+ERR: 非法操作:js
+
+[ 2017-03-19T22:49:24+08:00 ] ::1 /3.2.1/index.php/Home/Index/details.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001578s ]
+
+[ 2017-03-19T22:49:39+08:00 ] ::1 /3.2.1/index.php/Home/Index/details.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000156s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002425s ]
+
+[ 2017-03-19T22:50:27+08:00 ] ::1 /3.2.1/index.php/Home/Index/details.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001500s ]
+
+[ 2017-03-19T22:51:56+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001524s ]
+
+[ 2017-03-19T22:51:58+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify?bbb=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001629s ]
+
+[ 2017-03-19T23:27:09+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify?bbb=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001535s ]
+
+[ 2017-03-19T23:27:18+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify?bbb=3&category=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002062s ]
+
+[ 2017-03-19T23:27:22+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001734s ]
+
+[ 2017-03-19T23:27:25+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify?category=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002987s ]
+
+[ 2017-03-19T23:35:48+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000259s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002313s ]
+
+[ 2017-03-19T23:36:18+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002376s ]
+
+[ 2017-03-19T23:36:34+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001907s ]
+
+[ 2017-03-19T23:39:44+08:00 ] ::1 /3.2.1/index.php/Home/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001610s ]
+
+[ 2017-03-19T23:39:47+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify/category_id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002285s ]
+
+[ 2017-03-19T23:45:32+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify/category_id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000144s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002206s ]
+
+[ 2017-03-19T23:47:47+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify/category_id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002600s ]
+
+[ 2017-03-19T23:48:54+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify/category_id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003137s ]
+
+[ 2017-03-19T23:51:45+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify/category_id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002020s ]
+
+[ 2017-03-19T23:53:10+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify/category_id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001504s ]
+
+[ 2017-03-19T23:58:57+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify/category_id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002154s ]
+
+[ 2017-03-19T23:59:01+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify/category_id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002872s ]
+
+[ 2017-03-19T23:59:35+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify/category_id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000166s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002247s ]
+
+[ 2017-03-19T23:59:55+08:00 ] ::1 /3.2.1/index.php/Home/Index/classify/category_id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001311s ]
+

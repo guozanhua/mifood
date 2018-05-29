@@ -1,0 +1,519 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html lang="zh-cn">
+    <!-- 语言为中文 -->
+    <head>
+        <meta charset="utf-8">
+            <meta content="IE=edge" http-equiv="X-UA-Compatible">
+                <meta content="width=device-width, initial-scale=1.0" name="viewport">
+                    <title>
+                        MIFOOD-health
+                    </title>
+<!-- for-mobile-apps -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<script type="text/javascript" src="/MIFOOD/Public/js/jquery.min.js"></script>
+<script type="text/javascript" src="/MIFOOD/Public/js/ajax.js"></script>
+<!-- //for-mobile-apps -->
+<link rel="stylesheet" type="text/css" href="/MIFOOD/Public/css/ajax.css" />
+<!-- //for-mobile-apps -->
+<link href="/MIFOOD/Public/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="/MIFOOD/Public/css/jquery-ui.css" />
+<link href="/MIFOOD/Public/css/popuo-box.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="/MIFOOD/Public/css/health.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/MIFOOD/Public/css/leftlunbo.css" rel="stylesheet" type="text/css"  />
+<!-- js -->
+<script type="text/javascript" src="/MIFOOD/Public/js/jquery.min.js"></script>
+<!-- <script type="text/javascript" src="/MIFOOD/Public/js/numscroller-1.0.js"></script>
+ -->
+
+	<!-- start-smoth-scrolling -->
+		<script type="text/javascript" src="/MIFOOD/Public/js/move-top.js"></script>
+		<script type="text/javascript" src="/MIFOOD/Public/js/easing.js"></script>
+			<!--animate-->
+<link href="/MIFOOD/Public/css/animate.css" rel="stylesheet" type="text/css" media="all">
+<!--//end-animate-->
+</head>
+<body>
+<!-- header -->
+<div class="agileits_header">
+        <div class="w3l_offers">
+            <a href="">您的健康伴侣</a>
+        </div>
+        <div class="w3l_search">
+            <form action="<?php echo U('Index/search');?>" method="get">
+                <input type="text" name="search" value="搜索..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '搜索...';}" required="">
+                <input type="submit" value=" ">
+            </form>
+        </div>
+        <div class="w3l-right">
+        <ul>
+        <?php if($_SESSION['user'] == '' ): ?><li><a href="#" data-toggle="modal" data-target="#myModal4"><span class="glyphicon glyphicon-user" aria-hidden="true"></span>登录</a></li>
+                    <li><a href="#" data-toggle="modal" data-target="#myModal5"><span class="glyphicon glyphicon-user" aria-hidden="true"></span>注册</a></li>
+                     <?php else: ?>
+                    <li><a href="/MIFOOD/index.php/Home/Index/person" ><span class="glyphicon glyphicon-user" aria-hidden="true"></span><?php echo ($_SESSION['user']); ?></a></li>
+                    <li><a href="/MIFOOD/index.php/Home/Index/log_out"><span class=" glyphicon" aria-hidden="true"></span>退出</a></li><?php endif; ?>
+     </ul>
+        </div>
+            <div class="clearfix"> </div>
+    </div>
+<!-- //header -->
+    <script>
+    $(document).ready(function() {
+         var navoffeset=$(".agileits_header").offset().top;
+         $(window).scroll(function(){
+            var scrollpos=$(window).scrollTop(); 
+            if(scrollpos >=navoffeset){
+                $(".agileits_header").addClass("fixed");
+            }else{
+                $(".agileits_header").removeClass("fixed");
+            }
+         });
+         
+    });
+    </script>
+<!-- //script-for sticky-nav -->
+    <div class="logo_products">
+        <div class="container">
+            <div class="w3ls_logo_products_left">
+                <h1><a href="index.html"><span>new</span> MIFOOD</a></h1>
+            </div>
+            <div class="w3ls_logo_products_left1">
+                <ul class="special_items">
+                    <li><a href="/MIFOOD/index.php/Home/Index/index">首页</a><i>/</i></li>
+                    <li ><a href="/MIFOOD/index.php/Home/Index/top">Top系列</a><i>/</i></li>
+                    <li><a href="/MIFOOD/index.php/Home/Index/classify/category_id/24">分类</a><i>/</i></li>
+                    <li><a href="/MIFOOD/index.php/Home/Index/health"><span style="color:#E64C3C">写食派</span></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+<!-- //header -->
+		
+	<div class="row">		<!-- 			<div class="banner-body-content"> -->  <!-- 上图 -->
+			<div class="col-xs-12">
+				<div class="wmuSlider example1">
+					<div class="wmuSliderWrapper">
+						<article style="position: absolute; width: 100%; opacity: 0;"> 
+							<div class="banner-wrap">
+								<div class="banner">
+								</div>
+							</div>
+						</article>
+						<article style="position: absolute; width: 100%; opacity: 0;"> 
+							<div class="banner-wrap">
+								<div class="banner1">
+								</div>
+							</div>
+						</article>
+						<article style="position: absolute; width: 100%; opacity: 0;"> 
+							<div class="banner-wrap">
+								<div class="banner2">
+								</div>
+							</div>
+						</article>
+					</div>
+				</div>
+					<script src="/MIFOOD/Public/js/jquery.wmuSlider.js"></script> 
+					  <script>
+						$('.example1').wmuSlider();         
+					 </script> 
+				<div class="banner-bottom">
+					<div class="col-md-4 banner-left">
+						<div class="col-xs-3 banner-left1">
+							<div class="banner-left11">
+								<span> </span>
+							</div>
+						</div>
+						<div class="col-xs-9 banner-right1">
+							<h3>健康常识</h3>
+						</div>
+						<div class="clearfix"> </div>
+						<p>生活中你必须注意的一些有关于健康的小细节.</p>
+					</div>
+					<div class="col-md-4 banner-left">
+						<div class="col-xs-3 banner-left1">
+							<div class="banner-left22">
+								<span> </span>
+							</div>
+						</div>
+						<div class="col-xs-9 banner-right1">
+							<h3>瘦身美容</h3>
+						</div>
+						<div class="clearfix"> </div>
+						<p>你一定不知道这样食疗瘦身美容效果竟如此好.</p>
+					</div>
+					<div class="col-md-4 banner-left">
+						<div class="col-xs-3 banner-left1">
+							<div class="banner-left33">
+								<span> </span>
+							</div>
+						</div>
+						<div class="col-xs-9 banner-right1">
+							<h3>食疗食补</h3>
+						</div>
+						<div class="clearfix"> </div>
+						<p>吃什么补什么，以食为材，最为营养;
+					 就地材</p>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<div class="clearfix"> </div>
+</div>
+<div class="container">
+			<div class="col-xs-3 banner-body-left">
+				<div class="latest-news" style="margin-top: 90px">
+					<h2>相关推荐</h2>
+					<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+					  <div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="headingOne">
+						  <h4 class="panel-title">
+							<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+							 一周热门菜系
+							</a>
+						  </h4>
+						</div>
+						<div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+						  <div class="panel-body">
+						<ul>
+						<li>
+						<figure>
+    <img src="/MIFOOD/Public/images/sp2.jpg" width="69" height="69" />
+    <p class="health-left" >红烧肉</p>
+     </figure></li>
+     						<li>
+						<figure>
+    <img src="/MIFOOD/Public/images/sp1.jpg" width="69" height="69" />
+    <p class="health-left">牛肉</p>
+     </figure></li>
+       						<li>
+						<figure>
+    <img src="/MIFOOD/Public/images/sp3.jpg" width="69" height="69" />
+    <p class="health-left">鸡肉</p>
+     </figure></li>
+						<figure>
+    <img src="/MIFOOD/Public/images/sp4.jpg" width="69" height="69" />
+    <p class="health-left" >花菜</p></figure></li>
+
+						</ul>
+						  </div>
+						</div>
+
+					  </div>
+					</div>
+					<div class="join">
+						<a href="top.html">看更多</a>
+					</div>
+
+				</div>
+						<div class="latest-news" style="margin-top: 90px">
+					<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+					  <div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="headingOne">
+						  <h4 class="panel-title">
+							<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+							 一周热门话题
+							</a>
+						  </h4>
+						</div>
+						<div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+						  <div class="panel-body">
+						<ul>
+						<li>
+						<figure>
+    <img src="/MIFOOD/Public/images/s4.jpg" width="69" height="69" />
+    <p class="health-left" >水果抗癌</p>
+     </figure></li>
+     						<li>
+						<figure>
+    <img src="/MIFOOD/Public/images/s2.jpg" width="69" height="69" />
+    <p class="health-left">缓解痛经</p>
+     </figure></li>
+       						<li>
+						<figure>
+    <img src="/MIFOOD/Public/images/s5.jpg" width="69" height="69" />
+    <p class="health-left">样胃粥</p>
+     </figure></li>
+						<figure>
+    <img src="/MIFOOD/Public/images/s7.jpg" width="69" height="69" />
+    <p class="health-left" >增长肌肉</p></figure></li>
+
+						</ul>
+						  </div>
+						</div>
+
+					  </div>
+					</div>
+					
+
+				</div>
+			</div>
+							<div class="col-xs-9 banner-body-right">
+				<div class="msg-text-bottom">
+					<div class="col-md-12 msg-text-bottom-left">
+				   <div class="pic col-md-3"> 
+				   <a title="常熬夜一族，多吃这些来排毒" href="/MIFOOD/index.php/Home/Index/showHealth/article_id/5" target="_blank"> 
+				   <img alt="常熬夜一族，多吃这些来排毒" width="160" height="120" src="/MIFOOD/Public/images/health1.jpg" class="imgLoad" style="display: block;"> 
+				   </a> </div>
+				   <div class="detail col-md-9" >
+<h4> <a title="常熬夜一族，多吃这些来排毒" target="_blank" href="/MIFOOD/index.php/Home/Index/showHealth/article_id/5" se_prerender_url="complete">常熬夜一族，多吃这些来排毒</a> </h4>
+<p class="substatus">27分钟前</p>
+<p class="subcontent">习惯熬夜，可是熬夜会让毒素累积在体内，因此要及时排毒才行。以下为大家介绍了几种适合熬夜一族吃的排毒食物，想要排毒的人们，不妨都来看一看。</p>
+</div>
+					</div>
+					<div class="clearfix"> </div>
+					<div class="col-md-12 msg-text-bottom-left">
+				   <div class="pic col-md-3"> 
+				   <a title="这个夏天，最不可错过的6种食物" href="/MIFOOD/index.php/Home/Index/showHealth/article_id/6" target="_blank"> 
+				   <img alt="这个夏天，最不可错过的6种食物" width="160" height="120" src="/MIFOOD/Public/images/health2.jpg" class="imgLoad" style="display: block;"> 
+				   </a> </div>
+				   <div class="detail col-md-9" >
+<h4> <a title="这个夏天，最不可错过的6种食物" target="_blank" href="/MIFOOD/index.php/Home/Index/showHealth/article_id/6" se_prerender_url="complete">这个夏天，最不可错过的6种食物</a> </h4>
+<p class="substatus">88分钟前</p>
+<p class="subcontent">夏季气候炎热，病菌繁殖速度加快，倦怠乏力、上火等症状也时有发生。防范或减轻这些不适，不妨了解一下。</p>
+</div>
+					</div>
+					<div class="col-md-12 msg-text-bottom-left">
+				   <div class="pic col-md-3"> 
+				   <a title="为什么有的鱼刺多有的鱼刺少呢?" href="/MIFOOD/index.php/Home/Index/showHealth/article_id/4" target="_blank"> 
+				   <img alt="为什么有的鱼刺多有的鱼刺少呢?" width="160" height="120" src="/MIFOOD/Public/images/health5.jpg" class="imgLoad" style="display: block;"> 
+				   </a> </div>
+				   <div class="detail col-md-9" >
+<h4> <a title="为什么有的鱼刺多有的鱼刺少呢?" target="_blank" href="/MIFOOD/index.php/Home/Index/showHealth/article_id/4" se_prerender_url="complete">为什么有的鱼刺多有的鱼刺少呢?</a> </h4>
+<p class="substatus">18分钟前</p>
+<p class="subcontent">鱼刺的学名，叫肌间骨，它是分布于鱼类椎骨两侧肌隔中的小骨，主要生长在低等真骨鱼的体内。鱼刺的多少，部分程度体现了鱼类的进化史。</p>
+</div>
+					</div>
+						<div class="clearfix"> </div>
+					<div class="col-md-12 msg-text-bottom-left">
+				   <div class="pic col-md-3"> 
+				   <a title="养生3大秘笈 少食多餐科学饮食" href="/MIFOOD/index.php/Home/Index/showHealth/article_id/8" target="_blank"> 
+				   <img alt="养生3大秘笈 少食多餐科学饮食" width="160" height="120" src="/MIFOOD/Public/images/health4.jpg" class="imgLoad" style="display: block;"> 
+				   </a> </div>
+				   <div class="detail col-md-9" >
+<h4> <a title="养生3大秘笈 少食多餐科学饮食" target="_blank" href="/MIFOOD/index.php/Home/Index/showHealth/article_id/8" se_prerender_url="complete">养生3大秘笈 少食多餐科学饮食</a> </h4>
+<p class="substatus">8分钟前</p>
+<p class="subcontent">每当谈到养生方法的时候，我们总要为先人的智慧惊叹，其实生活中普通的一件小事都能成为延年益寿的条件之一。</p>
+</div>
+					</div>
+					<div class="clearfix"> </div>
+							<div class="col-md-12 msg-text-bottom-left">
+				   <div class="pic col-md-3"> 
+				   <a title="夏季饮食养生原则" href="/MIFOOD/index.php/Home/Index/showHealth/article_id/7" target="_blank"> 
+				   <img alt="夏季饮食养生原则" width="160" height="120" src="/MIFOOD/Public/images/health3.jpg" class="imgLoad" style="display: block;"> 
+				   </a> </div>
+				   <div class="detail col-md-9" >
+<h4> <a title="夏季饮食养生原则" target="_blank" href="/MIFOOD/index.php/Home/Index/showHealth/article_id/7" se_prerender_url="complete">夏季饮食养生原则</a> </h4>
+<p class="substatus">2小时前</p>
+<p class="subcontent">夏季吃什么食物能养生呢？夏季天气炎热，胃口不佳，但是也别忘了补充营养。</p>
+</div>
+					</div>
+						<div class="clearfix"> </div>
+			<div class="col-md-12 msg-text-bottom-left">
+				   <div class="pic col-md-3"> 
+				   <a title="不吃主食，真的会健康吗？" href="/MIFOOD/index.php/Home/Index/showHealth/article_id/3" target="_blank"> 
+				   <img alt="不吃主食，真的会健康吗？" width="160" height="120" src="/MIFOOD/Public/images/health6.jpg" class="imgLoad" style="display: block;"> 
+				   </a> </div>
+				   <div class="detail col-md-9" >
+<h4> <a title="不吃主食，真的会健康吗？" target="_blank" href="/MIFOOD/index.php/Home/Index/showHealth/article_id/3" se_prerender_url="complete">不吃主食，真的会健康吗？</a> </h4>
+<p class="substatus">58分钟前</p>
+<p class="subcontent">《谷物大脑》提出了颠覆性的理念——吃小麦有害健康，吃主食无益，高碳水化合物的饮食不仅让人肥胖，还会让大脑提前衰老，以鱼肉+蔬菜的低碳水化合物饮食才是正确的。真的正确吗？</p>
+</div>
+					</div>
+						<div class="clearfix"> </div>
+				</div>
+
+		</div>
+		</div>
+	</div>
+			<div class="footer">
+		<div class="container">
+			<div class="agile-footer-grids">
+				<div class="col-md-4 agile-footer-grid">
+					<h4> 关于我们</h4>
+					<p>  经验交流</p>
+					<h5> 外卖分析<h5>
+				</div>
+				<div class="col-md-4 agile-footer-grid">
+					<h4>友情链接</h4>
+					<ul class="float">
+                        <li>
+                            <a href="http://www.ttmeishi.com/">
+                                天天美食
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.ttmeishi.com/">
+                                口碑外卖
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.ttmeishi.com/">
+                                易淘食
+                            </a>
+                        </li>
+                    </ul>
+                    <ul class="float">
+                        <li>
+                            <a href="http://www.ttmeishi.com/">
+                                大众点评
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.ttmeishi.com/">
+                                饿了吗
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.ttmeishi.com/">
+                                美团外卖
+                            </a>
+                        </li>
+                    </ul>
+				</div>
+				<div class="col-md-4 agile-footer-grid">
+					<h4>热门主题</h4>
+					<div class="popular-grids">
+						<div class="popular-grid">
+							<a href="top.html"><img src="/MIFOOD/Public/images/s1.jpg" alt="" /></a>
+						</div>
+						<div class="popular-grid">
+							<a href="top.htmll"><img src="/MIFOOD/Public/images/s2.jpg" alt="" /></a>
+						</div>
+						<div class="popular-grid">
+							<a href="top.html"><img src="/MIFOOD/Public/images/s3.jpg" alt="" /></a>
+						</div>
+						<div class="clearfix"> </div>
+					</div>
+					<div class="popular-grids">
+						<div class="popular-grid">
+							<a href="top.html"><img src="/MIFOOD/Public/images/s5.jpg" alt="" /></a>
+						</div>
+						<div class="popular-grid">
+							<a href="top.html"><img src="/MIFOOD/Public/images/s6.jpg" alt="" /></a>
+						</div>
+						<div class="popular-grid">
+							<a href="top.htmll"><img src="/MIFOOD/Public/images/s7.jpg" alt="" /></a>
+						</div>
+						<div class="clearfix"> </div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //footer -->
+	<!-- agileits-copyright -->
+	<div class="agileits-copyright">
+		<div class="container">
+			<p>© 2017 Food Corner. All rights reserved | Design by MIFOOD</p>
+		</div>
+	</div>
+				<div class="clearfix"> </div>
+			</div>
+
+<div class="modal fade" id="myModal4" tabindex="-1" role="dialog" >
+				<div class="modal-dialog" role="document">
+					<div class="modal-content modal-info">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>						
+						</div>
+						<div class="modal-body modal-spa">
+							<div class="login-grids">
+									
+									<div class="login-right">
+										<h3>登录</h3> 
+										<form action="<?php echo U('Index/logins');?>" method="post">
+											<div class="sign-in">
+												<h4>用户名:</h4>
+												<input  class="username" type="text" name="username"   required="" value="">	
+											</div>
+											<div class="sign-in">
+												<h4>密码 :</h4>
+												<input type="password" name="password"  required="" value="" class="password">
+											</div>
+											<div class="single-bottom">
+												<input type="checkbox"  id="brand" value="">
+												<label for="brand"><span></span>记住密码</label>
+											</div>
+											<div class="sign-in">
+												<input id="submit1" type="submit" value="登 录" >
+											</div>
+										</form>
+									</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+<!-- //login -->
+<!-- login -->
+			<div class="modal fade" id="myModal5" tabindex="-1" role="dialog" >
+				<div class="modal-dialog" role="document">
+					<div class="modal-content modal-info">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>						
+						</div>
+						<div class="modal-body modal-spa">
+							<div class="login-grids">
+									<div class="login-bottom">
+										<h3>注册</h3>
+										<form action="<?php echo U('Login/register');?>" method="post">
+											<div class="sign-in">
+												<h4>用户名 :</h4>
+												<input type="text" name="username" value="" class="username" required="" placeholder="您的用户名">
+					<div id="tooltip1" class="tooltip-info prompt">
+					<span class="tooltip-icon-border"></span> 
+					<span class="tooltip-icon-bg"></span> 
+					<span class="state"></span> 
+					<span id="mess1" class="mess"></span>
+				</div>	
+											</div>
+											<div class="sign-up">
+												<h4>Email:</h4>
+												<input type="text" name="email" value="" class="email" onFocus="this.value = '';"  required="" placeholder="请写入合法的邮箱地址">
+						<div id="tooltip3" class="tooltip-info prompt">
+						<span class="tooltip-icon-border"></span> 
+						<span class="tooltip-icon-bg"></span> 
+						<span class="state"></span> 
+						<span id="mess3" class="mess"></span>
+					</div>	
+											</div>
+											<div class="sign-up">
+												<h4>密码 :</h4>
+												<input type="password" name="password" value="" class="password"      onFocus="this.value = '';"  required="" placeholder="6~15个字符">
+						<div id="tooltip2" class="tooltip-info prompt">
+						<span class="tooltip-icon-border"></span> 
+						<span class="tooltip-icon-bg"></span> 
+						<span class="state"></span>
+					    <span id="mess2" class="mess"></span>
+					</div>
+												
+											</div>
+											<div class="sign-up">
+												<h4>确认密码 :</h4>
+												<input type="password" name="confirm_password" value="" class="confirm_password" onFocus="this.value = '';"  required="" placeholder="6~15个字符">
+						<div id="tooltip22" class="tooltip-info prompt">
+						<span class="tooltip-icon-border"></span> 
+						<span class="tooltip-icon-bg"></span> 
+						<span class="state"></span> 
+						<span id="mess22" class="mess"></span>
+					</div>
+												
+											</div>
+											<div class="sign-up">
+												<input id="submit" type="submit" value="免费注册" >
+											</div>
+											
+										</form>
+									</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+<!-- //login -->
+<script type="text/javascript" src="/MIFOOD/Public/js/bootstrap.min.js"></script>
+<script src="js/owl.carousel.js"></script>  
+
+</body>
+</html>
